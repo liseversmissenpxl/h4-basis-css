@@ -1,9 +1,11 @@
 /* Algemene CSS */
-
-/* Typografie en specifieke opmaak */
+* {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
 body {
     background-color: lightcoral;
 }
+/* Typografie en specifieke opmaak */
 p {
     color: white;
     font-family: Verdana, Arial, Sans-Serif, serif;
@@ -27,4 +29,20 @@ h1.tekstkleur-geel {
 }
 .tekst-vet {
     font-weight: bold;
+}
+.footer-paragraaf {
+    color: darksalmon;
+}
+
+nav ul li a {
+    color: white;
+    background-color: darkcyan;
+    text-decoration: none;
+    font-size: 24px;
+}
+nav ul li a:hover {
+    background-color: white;
+    color: cornflowerblue;
+    text-decoration: underline;
+    font-size: 44px;
 }
