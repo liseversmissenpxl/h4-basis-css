@@ -1,6 +1,30 @@
+/* Algemene CSS */
+
+/* Typografie en specifieke opmaak */
+body {
+    background-color: lightcoral;
+}
 p {
-    color: blue;
-    font-family: "Comic Sans MS";
+    color: white;
+    font-family: Verdana, Arial, Sans-Serif, serif;
     font-style: italic;
-    font-size: 30px;
+}
+h1 {
+    color: darkcyan;
+    font-family: Verdana, Arial, Sans-Serif, serif;
+}
+.tekstkleur-blauw {
+    color: darkcyan;
+}
+#tekstkleur-rood {
+    Color: red;
+}
+.tekstkleur-geel {
+    color: yellow;
+}
+h1.tekstkleur-geel {
+    color: yellowgreen;
+}
+.tekst-vet {
+    font-weight: bold;
 }
