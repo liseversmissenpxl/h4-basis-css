@@ -1,5 +1,10 @@
 /* algemene css */
-
+body {
+    background-image: url("assets/bg.jpeg");
+   /* background-attachment: fixed; */
+   /* background-repeat: no-repeat; */
+    background-size: cover;
+}
 /* specifieke css */
 main {
     background-color: white;
