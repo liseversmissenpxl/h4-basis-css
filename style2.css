@@ -37,11 +37,16 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+main ol {
+    background-color: darkgrey;
+}
 main ul li {
     list-style-type: circle;
 }
 main ol li {
     list-style-type: upper-roman;
+    background-color: dimgray;
+    list-style-position: inside;
 }
 p {
 
