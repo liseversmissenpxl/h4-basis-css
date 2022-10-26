@@ -1,5 +1,5 @@
 *{
-    font-family: "Roboto Slab", serif;
+    font-family: 'Roboto Slab', serif;
 }
 body{
     background-color: #F1EBD9;
@@ -11,6 +11,9 @@ header{
     background-color: #DCC066;
     border-style: solid;
     border-color: #740001;
+}
+header img {
+    width: 250px;
 }
 img{
     width: 400px;
