@@ -1,0 +1,77 @@
+* {
+    font-family: 'verdana', sans-serif;
+}
+body {
+    background-image: url("assets/achtergrond.jpg");
+    background-repeat: repeat;
+}
+h1 {
+    font-size: 44px;
+}
+a {
+    color: inherit;
+}
+a:hover {
+    color: #051D62;
+    font-weight: 700;
+}
+img {
+    width: 250px;
+    height: 250px;
+    border: 2px #000000 solid;
+}
+header {
+    margin-inside: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #FFFFFF;
+}
+nav {
+    margin-inside: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+nav ul {
+    list-style-type: none;
+    text-decoration: none;
+    margin-inside: 0;
+}
+main {
+    width: 1000px;
+    margin: 0 auto;
+}
+.all {
+    margin-inside: 20px;
+    margin-outside: 50px 0;
+    border-radius: 10px;
+}
+.pukkelpop {
+    background-color: rgba(241, 84, 217, 0.5);
+    border: 1px solid;
+    border-radius: 10px;
+}
+.rockwerchter {
+    background-color: rgba(14, 8, 181, 0.5);
+    color: #FFFFFF;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.tomorrowland {
+    background-color: rgba(115, 68, 106, 0.5);
+    color: #FFFFFF;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.graspop {
+    background-color: rgba(20, 15, 8, 0.5);
+    color: #FFFFFF;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.bastion {
+    background-color: rgba(242, 235, 156, 0.5);
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 30px;
+}

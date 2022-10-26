@@ -1,0 +1,35 @@
+*{
+    font-family: "Roboto Slab", serif;
+}
+body{
+    background-color: #F1EBD9;
+}
+header{
+    width: 800px;
+    margin: 5px auto 10px auto;
+    padding: 75px;
+    background-color: #DCC066;
+    border-style: solid;
+    border-color: #740001;
+}
+img{
+    width: 400px;
+}
+h1{
+    color: #740001;
+}
+h2{
+    color: #740001;
+}
+main{
+    width: 800px;
+    margin: auto;
+    padding: 75px;
+    background-color: #DCC066;
+    border-style: solid;
+    border-color: #740001;
+}
+iframe{
+    width: 800px;
+    margin: auto;
+}
